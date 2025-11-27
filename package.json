@@ -1,0 +1,16 @@
+{
+  "name": "vibe-coding-helper",
+  "version": "1.0.0",
+  "description": "Vibe Coding Helper - Reusable code patterns extracted from working projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["mcp", "patterns", "azure", "react", "code-reuse", "vibe-coding"],
+  "author": "Richard Hogan",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}
